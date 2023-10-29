@@ -1,5 +1,5 @@
 # RequestPaginatedAPI
-Package to request data from a paginated API and export into a Pandas dataframe and local CSV file.
+Python package to request data from a paginated API and export into a Pandas dataframe and local CSV file.
 
 args:
 url,
